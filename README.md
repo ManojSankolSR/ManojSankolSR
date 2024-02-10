@@ -1,8 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
+<!--
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manoj+Sankol+S+R!;" />
-</h1>
+</h1> -->
+
+<h1 align="left" font-family: 'Montserrat'>Hi I'm Manoj Sankol S R</h1>
 
 <h3 align="left">A passionate Flutter , Backend Developer</h3>
 
