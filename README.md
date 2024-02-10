@@ -33,7 +33,7 @@
 <br/>
 <div align="left">
  
-    <img src=" https://skillicons.dev/icons?i=flutter,dart,nodejs,express,javascript,firebase,mongodb,c,cpp,javar&perline=4/>
+    <img src=" https://skillicons.dev/icons?i=flutter,dart,nodejs,express,javascript,firebase,mongodb,c,cpp,javar&perline=4"/>
 </div>
 
 <br/>
