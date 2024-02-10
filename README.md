@@ -10,7 +10,6 @@
 
 <h3 align="left">A Passionate Flutter , Backend Developer</h3>
 
-<br/>
 
 <div align="left">
  
