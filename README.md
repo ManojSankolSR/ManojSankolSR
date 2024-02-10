@@ -19,6 +19,18 @@
  🌱 I’m currently learning **Node JS, Express JS, Mongo DB**
 
  </div>
+
+
+<br/>
+
+ 
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="left">
+     <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,javascript,firebase,mongodb,c,cpp,java" />
+   
+</div>
+
  <br/>
 <h2 align="left">Socials: </h2>
 <br/>
@@ -36,21 +48,12 @@
 
 <br/>
 
- 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="left">
-     <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,javascript,firebase,mongodb,c,cpp,java" />
-   
-</div>
-
-<br/>
-
 <h2 align="left">Github Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojsankolsr&show_icons=true&locale=en&layout=compact" alt="manojsankolsr" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=manojsankolsr&show_icons=true&locale=en" alt="manojsankolsr" /></p>
+
 
 
 
