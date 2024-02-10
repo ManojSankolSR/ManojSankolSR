@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://komarev.com/ghpvc/?username=manojsankolsr&label=Profile%20views&color=0e75b6&style=flat" alt="manojsankolsr" />
 
 <h1 align="left" font-family: 'Montserrat'>Hi I'm Manoj Sankol S R</h1>
 
