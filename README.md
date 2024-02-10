@@ -42,8 +42,12 @@
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg"   height="40" width="40"/>
   </a>
    &nbsp; &nbsp; 
-     <a href="https://www.linkedin.com/in/manoj-sankol-s-r-20a64a24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+     <a href="https://www.instagram.com/manoj_sankol/">
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" height="40" width="40" target="_blank" />
+  </a>
+  &nbsp; &nbsp; 
+  <a href="https://www.facebook.com/manoj.s.manu.315">
+    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/facebook/facebook.svg" height="40" width="40" target="_blank" />
   </a>
   
  
