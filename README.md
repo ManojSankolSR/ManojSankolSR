@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=Flutter,dart,nodejs,express,javascript,firebase,mongodb,r" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,javascript,firebase,mongodb" />
     <img src="https://skillicons.dev/icons?i=c,cpp,java" /><br>
 </div>
 
