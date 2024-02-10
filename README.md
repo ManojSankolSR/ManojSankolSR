@@ -15,7 +15,7 @@
  </div>
  <br/>
 <div align="left"> 
-  <a href="">
+  <a href="mailto:manojsankol6361@gmail.com">
     <img src="[https://img.shields.io/badge](https://img.shields.io/badge)/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/manoj-sankol-s-r-20a64a24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
