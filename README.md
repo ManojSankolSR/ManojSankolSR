@@ -1,8 +1,13 @@
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,400;0,500;1,500;1,600&display=swap');
+</style>
+
 <img align="right" src="https://komarev.com/ghpvc/?username=manojsankolsr&label=Profile%20views&color=0e75b6&style=flat" alt="manojsankolsr" />
 
 <h1 align="left" font-family: 'Montserrat'>Hi I'm Manoj Sankol S R</h1>
 
-<h3 align="left">A passionate Flutter , Backend Developer</h3>
+<h3 align="left">A Passionate Flutter , Backend Developer</h3>
 
 <br/>
 
