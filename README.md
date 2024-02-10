@@ -19,7 +19,10 @@
  🌱 I’m currently learning **Node JS, Express JS, Mongo DB**
 
  </div>
- <br/>
+
+ 
+<h2 align="left">Socials: </h2>
+<br/>
 <div align="left"> 
   <a href="mailto:manojsankol6361@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
