@@ -49,11 +49,7 @@
   <a href="https://www.facebook.com/manoj.s.manu.315">
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/facebook/facebook.svg" height="40" width="40" target="_blank" />
   </a>
-    &nbsp; &nbsp; 
-  <a href="https://www.facebook.com/manoj.s.manu.315">
-    <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/facebook/facebook.svg" height="40" width="40" target="_blank" />
-  </a>
-  
+
  
 </div>
 
