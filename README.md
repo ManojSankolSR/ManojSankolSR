@@ -1,4 +1,5 @@
 
+<!-- 
 <h1 align="center">Hi I'm Manoj Sankol S R</h1>
 <h3 align="center">Flutter Developer</h3>
 
@@ -20,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojsankolsr&show_icons=true&locale=en" alt="manojsankolsr" /></p>
 
-
+-->
 <!--
 **ManojSankolSR/ManojSankolSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
