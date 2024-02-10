@@ -43,7 +43,10 @@
   <a href="https://portfolio-3cca5.web.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <img src="https://badgen.net/badge/hello/world/pink?icon=instagram" target="_blank" />
+  <a href="https://www.linkedin.com/in/manoj-sankol-s-r-20a64a24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://badgen.net/badge/Instagram/pink?icon=instagram" target="_blank" />
+  </a>
+  
  
 </div>
 
