@@ -10,10 +10,10 @@
  
  🔭 I’m currently working At **Urban Rider**
  
- 🌱 I’m currently learning **Node JS,Express JS,Mongo DB**
+ 🌱 I’m currently learning **Node JS, Express JS, Mongo DB**
 
  </div>
- 
+ <br/>
 <div align="left"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -26,6 +26,7 @@
   </a>
 </div>
 
+<br/>
 <br/>
 
  
