@@ -19,10 +19,6 @@
  🌱 I’m currently learning **Node JS, Express JS, Mongo DB**
 
  </div>
-
- <br/>
-
- 
 <h2 align="left">Socials: </h2>
 <br/>
 <div align="left"> 
