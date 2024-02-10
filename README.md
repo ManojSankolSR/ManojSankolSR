@@ -37,13 +37,16 @@
   <a href="mailto:manojsankol6361@gmail.com">
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg"   height="40" width="40"/>
   </a>
+   &nbsp; &nbsp; 
+ 
   <a href="https://www.linkedin.com/in/manoj-sankol-s-r-20a64a24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg"  height="40" width="40" target="_blank" />
   </a>
+   &nbsp; &nbsp; 
   <a href="https://portfolio-3cca5.web.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
- &nbsp
+  &nbsp; &nbsp; 
   <a href="https://www.linkedin.com/in/manoj-sankol-s-r-20a64a24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" height="40" width="40" target="_blank" />
   </a>
