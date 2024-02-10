@@ -43,6 +43,8 @@
   <a href="https://portfolio-3cca5.web.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <img src="https://badgen.net/badge/hello/world/pink?icon=instagram" target="_blank" />
+ 
 </div>
 
 <br/>
